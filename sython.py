@@ -84,7 +84,7 @@ async def _(event):
 ☆ PING : `{ms}`
 ☆ DATE : `{m9zpi}`
 ☆ ID : `{event.sender_id}`
-☆ SOURCE @ieFBI ~ @SaQiier
+☆ SOURCE @ieFBI ~ @SaQiier**
 
 -قـم بأرسال `.الاوامر`
 ''')
